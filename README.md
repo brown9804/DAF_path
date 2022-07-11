@@ -26,3 +26,5 @@ This repository contains the basic knowledge that I believe is required to begin
 </details>
 
 # Wiki:
+- [Jupyter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- [Python extension for Visual Studio Code](https://github.com/microsoft/vscode-python/blob/main/README.md)
