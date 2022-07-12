@@ -28,3 +28,4 @@ This repository contains the basic knowledge that I believe is required to begin
 # Wiki:
 - [Jupyter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - [Python extension for Visual Studio Code](https://github.com/microsoft/vscode-python/blob/main/README.md)
+- [How to install chocolatey/choco on Windows 10](https://jcutrer.com/windows/install-chocolatey-choco-windows10)
