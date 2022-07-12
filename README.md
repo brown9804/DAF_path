@@ -29,3 +29,5 @@ This repository contains the basic knowledge that I believe is required to begin
 - [Jupyter Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 - [Python extension for Visual Studio Code](https://github.com/microsoft/vscode-python/blob/main/README.md)
 - [How to install chocolatey/choco on Windows 10](https://jcutrer.com/windows/install-chocolatey-choco-windows10)
+- [Pip install a package](https://pypi.org/project/pandas/)
+- [pip install ipykernel Code Example](https://www.codegrepper.com/code-examples/shell/pip+install+ipykernel)
