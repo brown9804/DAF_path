@@ -35,3 +35,4 @@ This repository contains the basic knowledge that I believe is required to begin
 - [Excel - What does the $ mean when used in a formula](https://www.excelforum.com/excel-general/550431-what-does-the-mean-when-used-in-a-formula-please-g-or-3-a.html)
 - [Excel IFERROR function with formula examples](https://www.ablebits.com/office-addins-blog/excel-iferror-function-formula-examples/#:~:text=The%20IFERROR%20function%20in%20Excel,the%20result%20of%20the%20formula.&text=Where%3A,what%20to%20check%20for%20errors.)
 - [Excel - If cell contains](https://exceljet.net/formula/cell-contains-specific-text)
+- [Excel - Lookup Value in Column and Return Value of Another Column](https://www.exceldemy.com/excel-lookup-value-in-column-and-return-value-of-another-column/)
