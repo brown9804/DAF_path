@@ -36,4 +36,5 @@ This repository contains the basic knowledge that I believe is required to begin
 - [Excel - IFERROR function with formula examples](https://www.ablebits.com/office-addins-blog/excel-iferror-function-formula-examples/#:~:text=The%20IFERROR%20function%20in%20Excel,the%20result%20of%20the%20formula.&text=Where%3A,what%20to%20check%20for%20errors.)
 - [Excel - If cell contains](https://exceljet.net/formula/cell-contains-specific-text)
 - [Excel - Lookup Value in Column and Return Value of Another Column](https://www.exceldemy.com/excel-lookup-value-in-column-and-return-value-of-another-column/)
-- [ Excel - Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+- [Excel - Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+- [VsCode - How to delete every row with finding](https://stackoverflow.com/questions/65433648/visual-studio-code-how-do-i-delete-a-row-of-text-if-a-string-found-on-that-row)
